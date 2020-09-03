@@ -1,10 +1,14 @@
 ---
-title: About Alembic
+#title: About Alembic
+title: 내꿈은 주식왕!
 feature_text: |
   ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  #A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+   나는 흑우입니다.. 도와주십쇼 민기성님..
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+
+#excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "주식왕 민기의 할수있따!"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
