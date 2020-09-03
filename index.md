@@ -1,11 +1,12 @@
 ---
-title: 밍키헌정웹사이트
+title: 내꿈은 주식왕!
 feature_text: |
-  ## 밍키의 강의실
-     여러분모두 챙겨서 가겠습니다.
+  ## 밍키헌정 웹사이트!
+  민기와 함께하는 주식교실
 feature_image: "https://picsum.photos/1300/400?image=989"
 
-excerpt: "주식왕 민기의 할수있따!"[네이버링크](https://www.naver.com/)
+excerpt: "민기야 우리도할수있지? [주린이](https://finance.naver.com//) "
+
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
